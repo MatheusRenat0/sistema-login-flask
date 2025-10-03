@@ -14,3 +14,4 @@ Este projeto é um **sistema simples de login** desenvolvido em **Python (Flask)
 - **Werkzeug (hash de senha)**
 - **SQLite**
 
+![Tela de Login](./images/tela-login.png)
