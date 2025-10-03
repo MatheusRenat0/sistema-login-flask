@@ -6,7 +6,6 @@ Este projeto é um **sistema simples de login** desenvolvido em **Python (Flask)
 - Cadastro de usuário (criado automaticamente um admin padrão)
 - Login com verificação de senha criptografada
 - Sessão de usuário com perfil (Administrador ou Usuário)
-- Logout seguro
 
 ## Tecnologias utilizadas
 - **Python 3**
